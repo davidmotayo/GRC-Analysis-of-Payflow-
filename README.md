@@ -1,5 +1,9 @@
 # PayFlow GRC Programme — Fintech Security Governance Simulation
 
+![Social Preview](social-preview.png)
+
+<meta property="og:image" content="https://github.com/davidmotayo/GRC-Analysis-of-Payflow-/tree/main/social-preview.png">
+
 This repository documents an 8-week, end-to-end Governance, Risk & Compliance (GRC) engagement for **PayFlow**, a simulated Lagos-based fintech startup processing card, bank transfer, and mobile wallet payments. The scenario models a fast-growing payments company with no prior security governance — informal access controls, unmanaged secrets, and zero documented policy — and walks through the full lifecycle of standing up an Information Security Management System (ISMS) from the ground up.
 
 ## Frameworks Referenced
